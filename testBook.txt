@@ -1,0 +1,401 @@
+100
+123073
+ki thuat lap trinh
+utc
+499
+123074
+giao duc the chat
+dai hoc QG HN
+3000
+123075
+giao duc quoc phong mot 
+dai hoc QG HN
+53000
+123076
+giao duc quoc phong hai 
+dai hoc QG HN
+6000
+1233077
+giao duc quoc phong  ba
+dai hoc QG HN
+3000
+123078
+giao duc quoc phong bon 
+dai hoc QG HN
+5000
+123079
+kinh te luong
+kinh te VN
+4000
+123080
+triet hoc 
+dai hoc QG HN
+30000
+123081
+giai tich mot 
+dai hoc QG HN
+39000
+123082
+giai tich hai 
+dai hoc QG HN
+3902
+123083
+tin hoc dai cuong 
+dai hoc QG HN
+32789
+123084
+dai so tuyen tinh 
+dai hoc QG HN
+7000
+123085
+nhap mon cntt
+dai hoc QG HN
+5900
+123086
+bao tri he thong 
+dai hoc QG HN
+7500
+123087
+tu tuong HCM 
+dai hoc QG HN
+3000
+123088
+toan roi rac 
+dai hoc QG HN
+40002
+123089
+nguyen ly he dieu hanh 
+dai hoc QG HN
+30000
+123090
+kien truc va to chuc may tinh 
+dai hoc QG HN
+29000
+123091
+lap trinh huong doi tuong 
+utc
+482
+242141
+abdjs
+dai hoc QG HN
+37000
+123092
+cau truc du lieu va giai thuat
+dai hoc QG HN
+57000
+23093
+lich su dang cong san vn
+utcc
+50
+234632
+lich su vn 
+utc
+52000
+123094
+tieng anh  
+dai hoc QG HN
+37000
+123095
+co so du lieu 
+dai hoc QG HN
+234567
+123096
+phan tich thiet ke thuat toan 
+dai hoc QG HN
+44999
+123097
+mang may tinh  
+dai hoc QG HN
+90000
+123098
+cong nghe java 
+dai hoc GTVT
+70200
+123099
+ngoai ngu chuyen nganh 
+dai hoc ngoai ngu 
+23000
+123000
+cac phuong phap toi uu 
+dai hoc GTVT
+57000
+123100
+an toan va bao mat thong tin 
+dai hoc GTVT
+453455
+123001
+phan tich thiet ke va huong doi tuong 
+dai hoc GTVT
+23000
+123002
+phan tich thiet ke huong doi tuong
+dai hoc GTVT
+453456
+123003
+thuat toan va ung dung
+dai hoc GTVT
+320202
+123004
+he quan tri co so du lieu
+dai hoc GTVT
+3452345
+123005
+kien truc cac he thong thong tin 
+dai hoc GTVT
+453400
+123006
+tri tue nhan tao 
+dai hoc GTVT
+33565
+123007
+hoc may co ban 
+dai hoc GTVT
+34562
+123008
+cong nghe phan mem
+dai hoc GTVT
+123456
+123009
+lap trinh web 
+dai hoc GTVT
+23456
+123010
+lap trinh thiet bi di dong
+dai hoc GTVT
+45678
+123011
+phat trien ung dug app
+dai hoc GTVT
+456789
+123012
+lap trinh API 
+dai hoc GTVT
+3456789
+123013
+dac ta phan mem 
+dai hoc GTVT
+34567
+123014
+khai pha du lieu
+dai hoc GTVT
+3456784
+123015
+dam bao chat luong phan mem 
+dai hoc GTVT
+345678
+123016
+nhap mon xu ly ngon ngu tu nhien 
+dai hoc GTVT
+234567
+123017
+luu tru va xu ly du lieu lon
+dai hoc GTVT
+45678
+123018
+thi giac may tinh
+dai hoc GTVT
+345678
+123019
+he co so tri thuc 
+dai hoc GTVT
+345678
+123020
+hoc sau va ung dung  
+dai hoc GTVT
+345678
+123021
+toan ky thuat 
+dai hoc GTVT
+345678
+123022
+co be quang khan do
+nhi dong 
+345678
+123023
+bach tuyet
+nhi dong
+3456789
+123024
+lo lem
+nhi dong
+2345678
+123025
+nu hoang bang gia
+nhi dong
+23456
+123026
+nu hoang hac am 
+nhi dong
+123456
+123027
+dfghjdsa
+nhi dong
+23456456
+123028
+tradsfd
+canh dieu
+23456
+123029
+truyen thieu nhi
+bo giao duc VN
+234567
+123030
+trang quynh
+dan gian VN
+23456789
+1230931
+truyen ki man luc
+dan gian VN
+23456789
+123032
+dat nuoc gam hoa
+dan ca VN
+345432
+123033
+tim me 
+truyen dan gian VN
+32456
+123034
+nhung nguoi ban dieu ky
+canh dieu
+234567
+123035
+conan
+truyen nuoc ngoai
+234567234
+123036
+doremon
+truyen nuoc ngoai
+234567
+123037
+ty quay
+nhi dong
+1234567
+123038
+tho san quy
+truyen nuoc ngoai
+234567
+123039
+bay vien ngoc rong 
+truyen nuoc ngoai
+23456789
+123045
+sachA
+canh dieu
+500
+123046
+sachB
+chinh tri quoc gia
+1000
+123047
+sachC
+kim dong
+2345678
+123048
+sachD
+so mot
+300
+123049
+sachF
+van hoc VN
+400
+123050
+sachG
+dai hoc QG HN
+500
+123051
+sachH
+kim dong
+150000
+123052
+sachJ
+khoa hoc VN
+304
+123053
+sachk
+phap luat vn
+3000
+123054
+ton giao 
+hoi ton giao vn
+3500
+123055
+sachQ
+tam ly mot
+9000
+123056
+sachW
+canh dieu
+20000
+123057
+sachE
+cong nghe so mot
+2000
+123058
+sachR
+van hoc VN
+4000
+123059
+sachT
+phap luat VN
+40000
+123060
+sachY
+kinh te VN
+3900
+123061
+sachU
+tieu thuyet mot
+5000
+367891
+sachI
+ton giao VN
+5000
+123062
+sachO
+tam ly mot
+3900
+123063
+sachP
+dai hoc QG HN
+1000000
+123064
+sachmot
+kim dong
+5000
+123065
+sachhai
+canh dieu
+25000
+123066
+sachba
+tuoi tho
+39000
+123067
+sachbon
+tuyet vong
+5900
+123068
+sachnam
+thieu nhi
+3920
+123069
+sachsau
+kim dong
+39000
+123070
+sachbay
+kim dong 
+5000
+123071
+kinh te chinh tri
+50000
+123072
+4628
+ktct
+ptthuvien
+9
+123072
+xac suất thong ke
+dai học QG HN
+9000
